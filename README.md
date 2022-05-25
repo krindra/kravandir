@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/79300121?v=4" align="right" height=400px\>
+<img src="https://avatars.githubusercontent.com/u/79300121?v=4" align="right" height=350px\>
 
 ```c
 #include <xyita.h>
