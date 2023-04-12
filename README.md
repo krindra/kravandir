@@ -3,12 +3,10 @@
 ```c
 #include <xyita.h>
 
-int main(){
-  printf("%s\n", "Arch Linux user");
-  char* about = "C and Python devel";
-  puts("Compiled LFS and gentoo");
+char* krindra(){
+  char* about = "C and Python devel\nvk: vk.com/klm_ahmed";
   
-  retutn 0;
+  retutn about;
 }
 /*
   ╔═══╦══╗╔╗──╔═══╦═╗─╔╗
@@ -18,3 +16,4 @@ int main(){
   ║╚══╣╚═╝║╚═╝║╔═╗║║─║║║
   ╚═══╩═══╩═══╩╝─╚╩╝─╚═╝
 */
+```
